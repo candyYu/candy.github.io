@@ -21,3 +21,6 @@ yarn-error.log*
 .eslintrc
 index.html
 .npmignore
+.editorconfig
+.eslintrc.js
+.postcssrc.js
