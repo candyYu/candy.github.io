@@ -1,2 +1,0 @@
-webpackJsonp([0],{UfW8:function(n,i,p){n.exports=p.p+"static/img/enableAutoConfiguraiton.png"},bJLN:function(n,i,p){n.exports=p.p+"static/img/SpringApplicationRun.jpg"}});
-//# sourceMappingURL=0.88d10055162d32176e4c.js.map
